@@ -1,7 +1,7 @@
 ## 🖼️ Analiz Görselleri
 
 ### 1. Final Analiz Haritası
-![Final Harita](Outputs/Full_Analysis_Layout.jpg)
+![Final Harita](Outputs/İzmir Metropol Alanı Kentsel Yayılım Analizi.jpg)
 
 ### 2. Katman Detayları
 | Mevcut Şehir (2017) | Yeni Yapılaşma (2017-2025) |
